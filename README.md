@@ -34,9 +34,9 @@ Este es un pequeño proyecto hecho para practicar consumo de APIs en JavaScript 
 ✔️ Efecto visual al obtenerlo<br>
 ✔️ UI inspirada en colores originales de Pokémon:<br>
 ``
-Amarillo  #FFDE00
-Rojo      #AA0000
-Azul      #3B4CCA
+Amarillo  #FFDE00<br>
+Rojo      #AA0000<br>
+Azul      #3B4CCA<br>
 ``
 ## **🧪 ¿Qué se aprende con este proyecto?**
 
