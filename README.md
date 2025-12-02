@@ -4,15 +4,15 @@ Este es un pequeño proyecto hecho para practicar consumo de APIs en JavaScript 
 
 ## **🎯 Objetivo del proyecto**
 
-Obtener un Pokémon aleatorio usando ``fetch() y la PokeAPI.
+-Obtener un Pokémon aleatorio usando `fetch()` y la PokeAPI.
 
-Mostrar su imagen y su nombre en la interfaz.
+-Mostrar su imagen y su nombre en la interfaz.
 
-Aplicar estilos con colores clásicos de Pokémon (amarillo, rojo, azul).
+-Aplicar estilos con colores clásicos de Pokémon (amarillo, rojo, azul).
 
-Usar una librería externa para agregar un detalle visual (ej: confetti).
+-Usar una librería externa `JsConfetti()`
 
-Proyecto enfocado 100% en práctica y estudio, no en producción.
+-Proyecto enfocado 100% en práctica y estudio, no en producción.
 
 🧠 Tecnologías utilizadas
 
@@ -22,9 +22,9 @@ Proyecto enfocado 100% en práctica y estudio, no en producción.
 
 -JavaScript
 
--PokeAPI: https://pokeapi.co/
+-PokeAPI: `https://pokeapi.co/`
 
--Librería externa ``JsConfetti()
+-Librería externa `JsConfetti()`
 
 🚀 Funcionalidades
 
@@ -40,11 +40,11 @@ Azul      #3B4CCA
 
 ## **🧪 ¿Qué se aprende con este proyecto?**
 
--Requests HTTPS con fetch()
+-Requests HTTPS con `fetch()`
 
 -Manejo de respuestas en JSON
 
--Uso de funciones asíncronas async/await
+-Uso de funciones asíncronas `async/await`
 
 -Manipulación del DOM
 
@@ -60,15 +60,16 @@ Clona el repositorio:
 git clone https://github.com/BelAlmendras/quien-es-ese-pokemom.git
 ``
 
-Abre el archivo ``index.html en tu navegador.
+Abre el archivo `index.html` en tu navegador.
 
 No requiere instalaciones ni backend.
 
 ## **📸 Captura / Ejemplo**
 
-img
+![captura1](./captura1.jpg)
+![captura2](./captura2.jpg)
 
 ## **🧩 Créditos**
 
 API Oficial utilizada:
-https://pokeapi.co/
+`https://pokeapi.co/`
