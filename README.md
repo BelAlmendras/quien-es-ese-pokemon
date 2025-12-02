@@ -28,15 +28,15 @@ Este es un pequeño proyecto hecho para practicar consumo de APIs en JavaScript 
 
 🚀 Funcionalidades
 
-✔️ Botón para obtener un Pokémon aleatorio
-✔️ Muestra la imagen del Pokémon
-✔️ Se revela el nombre al hacer clic
-✔️ Efecto visual al obtenerlo
-✔️ UI inspirada en colores originales de Pokémon:
+✔️ Botón para obtener un Pokémon aleatorio<br>
+✔️ Muestra la imagen del Pokémon<br>
+✔️ Se revela el nombre al hacer clic<br>
+✔️ Efecto visual al obtenerlo<br>
+✔️ UI inspirada en colores originales de Pokémon:<br>
 
-Amarillo  #FFDE00
-Rojo      #AA0000
-Azul      #3B4CCA
+Amarillo  #FFDE00<br>
+Rojo      #AA0000<br>
+Azul      #3B4CCA<br>
 
 ## **🧪 ¿Qué se aprende con este proyecto?**
 
@@ -55,14 +55,14 @@ Azul      #3B4CCA
 
 ## **📦 Cómo ejecutarlo**
 
-Clona el repositorio:
-``bash
-git clone https://github.com/BelAlmendras/quien-es-ese-pokemom.git
+-Clona el repositorio:<br>
 ``
+git clone https://github.com/BelAlmendras/quien-es-ese-pokemom.git
+`` <br>
 
-Abre el archivo `index.html` en tu navegador.
+-Abre el archivo `index.html` en tu navegador.
 
-No requiere instalaciones ni backend.
+-No requiere instalaciones ni backend.
 
 ## **📸 Captura / Ejemplo**
 
