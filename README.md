@@ -66,8 +66,8 @@ git clone https://github.com/BelAlmendras/quien-es-ese-pokemom.git
 
 ## **📸 Captura / Ejemplo**
 
-![captura1](./captura1.jpg)
-![captura2](./captura2.jpg)
+![captura1](./captura1.png)
+![captura2](./captura2.png)
 
 ## **🧩 Créditos**
 
