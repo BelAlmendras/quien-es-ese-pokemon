@@ -14,7 +14,7 @@ Este es un pequeño proyecto hecho para practicar consumo de APIs en JavaScript 
 
 -Proyecto enfocado 100% en práctica y estudio, no en producción.
 
-🧠 Tecnologías utilizadas
+## **🧠 Tecnologías utilizadas**
 
 -HTML
 
@@ -26,18 +26,18 @@ Este es un pequeño proyecto hecho para practicar consumo de APIs en JavaScript 
 
 -Librería externa `JsConfetti()`
 
-🚀 Funcionalidades
+## **🚀 Funcionalidades**
 
 ✔️ Botón para obtener un Pokémon aleatorio<br>
 ✔️ Muestra la imagen del Pokémon<br>
 ✔️ Se revela el nombre al hacer clic<br>
 ✔️ Efecto visual al obtenerlo<br>
 ✔️ UI inspirada en colores originales de Pokémon:<br>
-
-Amarillo  #FFDE00<br>
-Rojo      #AA0000<br>
-Azul      #3B4CCA<br>
-
+``
+Amarillo  #FFDE00
+Rojo      #AA0000
+Azul      #3B4CCA
+``
 ## **🧪 ¿Qué se aprende con este proyecto?**
 
 -Requests HTTPS con `fetch()`
